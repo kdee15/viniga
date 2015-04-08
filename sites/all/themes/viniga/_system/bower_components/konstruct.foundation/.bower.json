@@ -1,0 +1,31 @@
+{
+  "name": "konstruct.foundation",
+  "version": "1.1.0",
+  "homepage": "https://github.com/konstruct/konstruct.foundation",
+  "authors": [
+    "Adrian Kirsten"
+  ],
+  "description": "**konstruct.foundation** features the core of the Konstruct project.",
+  "main": "foundation/",
+  "keywords": [
+    "sass",
+    "konstruct"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.0",
+    "commit": "0b5d3b3f49a51b3b6f1eeba3491c0ae5009af978"
+  },
+  "_source": "git://github.com/konstruct/konstruct.foundation.git",
+  "_target": "*",
+  "_originalSource": "konstruct.foundation"
+}

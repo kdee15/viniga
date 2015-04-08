@@ -1,0 +1,57 @@
+{
+
+    "name": "Viniga Website",
+    "version": "1.0.0",
+    "description": "Web presence for clothing line of viniga clothing",
+    "siteSource": "",
+    "assets" : {
+        "live": "http://viniga.com",
+        "staging": "http://",
+        "dev": "http://",
+        "repository": "https://github.com/kdee15/viniga.git",
+        "endpoint" : "http://",
+        "documentation": "http://"
+    },
+    "core" : {
+        "components" : [
+            "html5shiv/dist/html5shiv.min.js",
+            "modernizr/modernizr.js",
+            "jquery/dist/jquery.min.js",
+            "jquery/dist/jquery.min.map",
+            "angular/angular.js",
+            "angular/angular.min.js.map",
+            "angular-touch/angular-touch.js",
+            "angular-touch/angular-touch.min.js.map",
+            "angular-animate/angular-animate.js",
+            "angular-animate/angular-animate.min.js.map",
+            "angular-ui-router/release/angular-ui-router.js",
+            "angular-file-upload/angular-file-upload.min.map",
+            "angular-file-upload/angular-file-upload.js"
+        ],
+        "componentOrder" : [
+            "html5shiv.min.js",
+            "modernizr.js",
+            "jquery.min.js",
+            "angular.js",
+            "angular-animate.js",
+            "angular-ui-router.js",
+            "angular-touch.js",
+            "angular-file-upload.js"
+        ],
+        "konstructBase" : [
+            "konstruct.foundation/",
+            "konstruct.bricks/",
+            "konstruct.cement/"
+        ],
+        "konstructVendor" : [
+            "normalize.css/normalize.css"
+        ],
+        "konstructConfig" : [
+            "konstruct.config/"
+        ],
+        "konstructSite" : [
+            "konstruct.site/"
+        ]
+    }
+
+}

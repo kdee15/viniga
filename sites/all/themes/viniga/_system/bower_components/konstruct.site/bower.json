@@ -1,0 +1,22 @@
+{
+  "name": "konstruct.site",
+  "version": "2.0.0",
+  "homepage": "https://github.com/konstruct/konstruct.site",
+  "authors": [
+    "Adrian Kirsten"
+  ],
+  "description": "**konstruct.site** is a great starting point for your site's styling needs. It provides a ready-made set up for your differen't viewports.",
+  "main": "site/",
+  "keywords": [
+    "sass",
+    "konstruct"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

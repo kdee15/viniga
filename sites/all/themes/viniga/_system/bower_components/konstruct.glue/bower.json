@@ -1,0 +1,22 @@
+{
+  "name": "konstruct.glue",
+  "version": "1.2.0",
+  "homepage": "https://github.com/konstruct/konstruct.glue",
+  "authors": [
+    "Adrian Kirsten"
+  ],
+  "description": "**konstruct.glue** is a set of _Stylesheet.scss files that can be used for various scenarios. Specifically, it's used for the Konstruct boilerplate & Konstruct Platform boilerplate.",
+  "main": "single.core.scss",
+  "keywords": [
+    "sass",
+    "konstruct"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

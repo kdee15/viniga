@@ -1,0 +1,22 @@
+{
+  "name": "konstruct.bricks",
+  "version": "1.1.0",
+  "homepage": "https://github.com/konstruct/konstruct.bricks",
+  "authors": [
+    "Adrian Kirsten"
+  ],
+  "description": "**konstruct.bricks** are a set of common design patterns to help you build quickly without reinventing wheels. They are based on good practise code and past experience.",
+  "main": "bricks/",
+  "keywords": [
+    "sass",
+    "konstruct"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

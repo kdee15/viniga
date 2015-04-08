@@ -1,0 +1,31 @@
+{
+  "name": "konstruct.config",
+  "version": "1.1.0",
+  "homepage": "https://github.com/konstruct/konstruct.config",
+  "authors": [
+    "Adrian Kirsten"
+  ],
+  "description": "**konstruct.config** features the configuration options for the Konstruct project. This config is explicitly for your site's styling configuration.",
+  "main": "config/",
+  "keywords": [
+    "sass",
+    "konstruct"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.0",
+    "commit": "cb6e19147e2abeaa8aed8202ef9a3d505d9245e5"
+  },
+  "_source": "git://github.com/konstruct/konstruct.config.git",
+  "_target": "*",
+  "_originalSource": "konstruct.config"
+}
