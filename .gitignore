@@ -5,6 +5,8 @@ sites/*/*settings*.php
 files/
 sites/*/files
 sites/*/private
+sites/all/themes/viniga/_system/node-modules
+sites/all/themes/viniga/_system/.sass-cache
 
 # Ignore default text files
 robots.txt
@@ -18,8 +20,7 @@ robots.txt
 sites/all/README.txt
 sites/all/modules/README.txt
 sites/all/themes/README.txt
-sites/all/themes/viniga/_system/node-modules
-sites/all/themes/viniga/_system/.sass-cache
+
 
 # Ignore everything but the "sites" folder ( for non core developer )
 .htaccess
